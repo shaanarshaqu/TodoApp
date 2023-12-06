@@ -2,7 +2,7 @@
   "name": "react0",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rock-32.github.io/Todo",
+  "homepage": "http://rock-32.github.io/TodoApp",
   "dependencies": {
     "@reduxjs/toolkit": "^2.0.0",
     "@testing-library/jest-dom": "^5.17.0",
